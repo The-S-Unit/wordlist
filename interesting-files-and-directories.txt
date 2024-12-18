@@ -58,6 +58,7 @@
 .cc-ban.txt
 .cc-ban.txt.bak
 .cfg
+.git
 .cfignore
 .checkstyle
 .childrenlist.json
@@ -164,7 +165,6 @@
 .gem
 .gfclient/
 .gfclient/pass
-.git
 .git-credentials
 .git-rewrite/
 .git/
